@@ -3,5 +3,3 @@ PyQtWebEngine
 pyautogui
 opencv-python
 numpy
-
-
